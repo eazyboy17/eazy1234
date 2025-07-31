@@ -1,0 +1,28 @@
+body { 
+    background-color: #ffffff; 
+    font-family: Arial, sans-serif; 
+    color: #232caa; 
+    text-align: center; 
+    } 
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 300px;
+    margin: 0 auto;
+    background-color: #3b3c3f;
+    padding: 20px;
+    border-radius: 8px;
+label {
+color: #ffffff;
+}
+
+}
+button {
+    font-size: 10px;
+    padding: 5px;
+    color: #fcfcfc; 
+    background-color: #4648df; 
+    border-radius: 8px;
+   
+   }

@@ -1,0 +1,24 @@
+body { 
+    background-color: #ffffff; 
+    font-family: Arial, sans-serif; 
+    color: #232caa; 
+    text-align: center; 
+    font-size: 25px;
+    } 
+    button {
+        font-size: 10px;
+        padding: 5px;
+        color: #fcfcfc; 
+    background-color: #4648df; 
+    border-radius: 8px;
+       
+       }
+       p1{
+        font-size: 40px;
+       }
+    p2 {
+        font-size: 25px;
+    }
+    p3{
+        font-size: 15px;
+       }

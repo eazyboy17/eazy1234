@@ -1,0 +1,31 @@
+body { 
+    background-color: #0c0101; 
+    font-family: Arial, sans-serif; 
+    color: #e9e9f0; 
+    text-align: center; 
+    font-size: 25px;
+    button {
+        font-size: 25px;
+        padding: 10px;
+        color: #0e0d0d; 
+    background-color: #ededf8; 
+    border-radius: 8px;
+       
+       }
+    }
+    header{
+        background-color: #141414;
+        padding: 20px;
+        position: sticky;
+        top: 0;
+        z-index: 1000;
+        color: #ffffff;    
+       button {
+        font-size: 10px;
+        padding: 5px;
+        color: #0e0b0b; 
+    background-color: #f3f3f5; 
+    border-radius: 8px;
+       
+       }
+    }
